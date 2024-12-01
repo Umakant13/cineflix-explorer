@@ -13,8 +13,8 @@ A launching point for building a movie streaming website.
 
 ## Local Development
 
-1. Clone the repository: `git clone https://github.com/bitfreee/movie-web-kickstart`
-2. Navigate to the project directory: `cd movie-web-kickstart`
+1. Clone the repository: `git clone https://github.com/Umakant13/cineflix-explorer`
+2. Navigate to the project directory: `cd cineflix-explorer`
 3. Install dependencies: `npm install`
 4. Create .env file `cp .env.example .env`
 4. Start the development server: `npm run dev`
