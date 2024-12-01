@@ -1,4 +1,4 @@
-# MovieWeb Kickstart Project
+# CineFlix Explorer
 
 A launching point for building a movie streaming website.
 
@@ -23,9 +23,6 @@ A launching point for building a movie streaming website.
 
 3. Click "Deploy" and wait for the deployment to complete.
 
-### Deploy with Cloudflare Pages
-To deploy on [Cloudflare Pages](https://pages.cloudflare.com/) you can use the following instructions:
-[README](https://github.com/cloudflare/next-on-pages/tree/main/packages/next-on-pages)
 
 ## Local Development
 
@@ -44,16 +41,6 @@ To deploy on [Cloudflare Pages](https://pages.cloudflare.com/) you can use the f
 - [TMDb](https://www.themoviedb.org/) - movie database
 - [Vidsrc.cc](https://vidsrc.cc) - streaming links
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/improvement`).
-3. Make your changes.
-4. Commit your changes (`git commit -am 'Add new feature'`).
-5. Push to the branch (`git push origin feature/improvement`).
-6. Create a new Pull Request.
 
 ## License
 
